@@ -12,4 +12,3 @@ RetailPulse uses the **Brazilian E-Commerce Public Dataset by Olist**, available
 2. Extract the CSV files.
 3. Place all nine CSV files inside the `data/` directory in the project root.
 4. Follow the project setup instructions to initialize the database.
-5. 
